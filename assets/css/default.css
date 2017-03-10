@@ -1,0 +1,16 @@
+body{
+    font-family: 'Nunito', sans-serif;
+}
+.container {  
+    margin: 20px;
+    line-height: 200%
+  }  
+ul li {
+    list-style-type: none;
+}
+h1:first-letter{color: #402661;}
+h2:first-letter{color: #557729;}
+a:link { color: #366ee2; }
+a:visited { color: #5c4baa; }
+a:hover { color: #a6b951; }
+a:active { color: #56bf9e; }
